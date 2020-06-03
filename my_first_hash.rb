@@ -1,5 +1,5 @@
 def my_hash (name)
-  name = 
+  name = ""
 
   
 end

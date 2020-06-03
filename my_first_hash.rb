@@ -1,5 +1,5 @@
-def my_hash (name)
-  name = ""
+def my_hash
+  your_hash = {"people" => 10, "pets" => 15, "wild animals" => 5}
 
   
 end
